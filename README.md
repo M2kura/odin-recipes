@@ -1,0 +1,1 @@
+Hey. In this project I'm showing my skills of using things like Unordered/Ordered Lists, Links, Images, Image Size Setting, Headings and Paragraphs. Hope you'll like it :3
